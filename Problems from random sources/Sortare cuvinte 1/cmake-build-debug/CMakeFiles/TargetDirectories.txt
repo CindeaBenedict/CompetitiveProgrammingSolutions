@@ -1,0 +1,3 @@
+E:/AAA_Teme/Sortare cuvinte 1/cmake-build-debug/CMakeFiles/Sortare_cuvinte_1.dir
+E:/AAA_Teme/Sortare cuvinte 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/AAA_Teme/Sortare cuvinte 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

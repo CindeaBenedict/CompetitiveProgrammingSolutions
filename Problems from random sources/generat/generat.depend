@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1620389930 source:e:\aaa_teme\info\generat\main.cpp
+	<cstdlib>
+	<ctime>
+	<iostream>
+

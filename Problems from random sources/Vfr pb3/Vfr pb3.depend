@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1642840541 source:e:\aaa_teme\info\vfr pb3\main.cpp
+	<iostream>
+	<fstream>
+

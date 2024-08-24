@@ -1,0 +1,3 @@
+E:/AAA_Teme/Bazapbinfo/cmake-build-debug/CMakeFiles/Bazapbinfo.dir
+E:/AAA_Teme/Bazapbinfo/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/AAA_Teme/Bazapbinfo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

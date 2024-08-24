@@ -1,0 +1,11 @@
+# ninja log v5
+0	407	6974188860977548	CMakeFiles/Fibonacci_army.dir/main.cpp.obj	d067882027a4588d
+410	531	6974188862177544	Fibonacci_army.exe	81445bb5a7ec361f
+3	311	6974189424986389	CMakeFiles/Fibonacci_army.dir/main.cpp.obj	d067882027a4588d
+311	414	6974189425979652	Fibonacci_army.exe	81445bb5a7ec361f
+3	316	6974189528069654	CMakeFiles/Fibonacci_army.dir/main.cpp.obj	d067882027a4588d
+316	422	6974189529099977	Fibonacci_army.exe	81445bb5a7ec361f
+3	311	6974189661038429	CMakeFiles/Fibonacci_army.dir/main.cpp.obj	d067882027a4588d
+311	419	6974189662088425	Fibonacci_army.exe	81445bb5a7ec361f
+3	303	6974189755508093	CMakeFiles/Fibonacci_army.dir/main.cpp.obj	d067882027a4588d
+303	403	6974189756472710	Fibonacci_army.exe	81445bb5a7ec361f

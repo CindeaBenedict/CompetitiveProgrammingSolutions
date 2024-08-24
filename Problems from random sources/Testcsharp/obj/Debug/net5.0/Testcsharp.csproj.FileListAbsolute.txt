@@ -1,0 +1,16 @@
+E:\AAA_Teme\Info\Testcsharp\bin\Debug\net5.0\Testcsharp.exe
+E:\AAA_Teme\Info\Testcsharp\bin\Debug\net5.0\Testcsharp.deps.json
+E:\AAA_Teme\Info\Testcsharp\bin\Debug\net5.0\Testcsharp.runtimeconfig.json
+E:\AAA_Teme\Info\Testcsharp\bin\Debug\net5.0\Testcsharp.runtimeconfig.dev.json
+E:\AAA_Teme\Info\Testcsharp\bin\Debug\net5.0\Testcsharp.dll
+E:\AAA_Teme\Info\Testcsharp\bin\Debug\net5.0\ref\Testcsharp.dll
+E:\AAA_Teme\Info\Testcsharp\bin\Debug\net5.0\Testcsharp.pdb
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\Testcsharp.csproj.AssemblyReference.cache
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\Testcsharp.GeneratedMSBuildEditorConfig.editorconfig
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\Testcsharp.AssemblyInfoInputs.cache
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\Testcsharp.AssemblyInfo.cs
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\Testcsharp.csproj.CoreCompileInputs.cache
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\Testcsharp.dll
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\ref\Testcsharp.dll
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\Testcsharp.pdb
+E:\AAA_Teme\Info\Testcsharp\obj\Debug\net5.0\Testcsharp.genruntimeconfig.cache

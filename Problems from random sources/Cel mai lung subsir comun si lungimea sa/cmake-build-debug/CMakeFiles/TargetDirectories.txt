@@ -1,0 +1,3 @@
+E:/AAA_Teme/Info/Cel mai lung subsir comun si lungimea sa/cmake-build-debug/CMakeFiles/Cel_mai_lung_subsir_comun_si_lungimea_sa.dir
+E:/AAA_Teme/Info/Cel mai lung subsir comun si lungimea sa/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/AAA_Teme/Info/Cel mai lung subsir comun si lungimea sa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

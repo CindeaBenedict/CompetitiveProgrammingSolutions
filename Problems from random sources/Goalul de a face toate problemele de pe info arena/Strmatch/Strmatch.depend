@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665948494 source:e:\aaa_teme\info\goalul de a face toate problemele de pe info arena\strmatch\main.cpp
+	<fstream>
+	<vector>
+	<string.h>
+
